@@ -13,5 +13,12 @@ export default {
 </script>
 
 <style>
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
 </style>
